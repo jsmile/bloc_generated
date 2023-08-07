@@ -1,6 +1,6 @@
 # bloc_generated
 
-A new Flutter project.
+A Flutter Bloc Generated Route project.
 
 ## Getting Started
 
